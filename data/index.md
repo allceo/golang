@@ -9,6 +9,8 @@ Go 语言 wiki
 - [Projects](Projects) - a list of Go projects.
 - [Go Code Review Comments](CodeReviewComments) - a supplement to Effective Go.
 - [Learn](Learn) - learning resources on specific topics.
+- [Go Web 编程](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md) - Go Web 编程.
+- [Go名库讲解](https://github.com/Unknwon/go-rock-libraries-showcases/blob/master/README.md) - Go名库讲解
 
 其它文档:
 
