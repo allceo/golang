@@ -21,3 +21,6 @@ Go 语言 wiki
 Go 语言网址：
 - [studygolang.com](http://studygolang.com/) - Golang中文社区.
 - [golangtc.com](http://www.golangtc.com/) - Golang中国社区.
+
+我关注的项目：
+- [go-xorm](https://github.com/go-xorm/manual-zh-CN/blob/master/SUMMARY.md) - go-xorm使用文档
