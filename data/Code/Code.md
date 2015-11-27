@@ -8,4 +8,4 @@
 ## 代码零碎
 
   * [easyui分页查询](Code:easyui) - easyui分页查询
-  * [WordPress数据库表及字段详解](Code:WordPress数据库表及字段详解) - WordPress数据库表及字段详解
+  * [WordPress数据库表及字段详解](Code:WordPress) - WordPress数据库表及字段详解

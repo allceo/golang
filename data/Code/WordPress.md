@@ -2,7 +2,7 @@
 
 > 1.wp_posts表，存储文章信息，如文章标题、正文、摘要、作者、发布时间、访问密码、评论数、修改时间、文章地址（非静态化之前的，带？和数字ID）等；
 
-
+```sql
 	SELECT ID,  --bigint(20)自增长ID
 	post_author, --bigint(20)对应作者ID
 	post_date,   --datetime发布时间
@@ -27,10 +27,11 @@
 	post_mime_type,        --varchar(100)MIME类型
 	comment_count          --bigint(20)评论总数
 	FROM wordpress . wp_posts;
+```
 
  > 2.wp_comments表，存储评论信息，如评论内容、评论所属文章、评论人昵称、邮箱、URL等；
 
-
+```sql
 	SELECT comment_ID,          --bigint(20)自增唯一ID
 	comment_post_ID,     --bigint(20)对应文章ID
 	comment_author,      --tinytext评论者
@@ -47,3 +48,4 @@
 	comment_parent,                              --bigint(20)父评论ID
 	user_id                                      --bigint(20)评论者用户ID（不一定存在）
 	FROM wordpress . wp_comments
+```
