@@ -9,3 +9,5 @@
 
   * [easyui分页查询](Code:easyui) - easyui分页查询
   * [WordPress数据库表及字段详解](Code:WordPress) - WordPress数据库表及字段详解
+  * [微软壁纸API详解](Code:bingwallpaper) - 微软壁纸API
+  
