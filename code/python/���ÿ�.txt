@@ -1,0 +1,27 @@
+#将PY打包成EXE文件
+pip install PyInstaller
+
+#模板库
+pip install jinja2
+
+#HTTP网络访问
+pip install requests
+
+#生成PDF
+pip install pdfkit
+
+pip install pyquery
+
+pip install Django
+
+pip install wheel
+
+pip install jieba
+
+pip install pandas 
+
+https://wiki.python.org/moin/WindowsCompilers#Microsoft_Visual_C.2B-.2B-_10.0_standalone:_Windows_SDK_7.1_.28x86.2C_x64.2C_ia64.29
+
+Microsoft Visual C++ Compiler for Python 2.7
+
+http://www.microsoft.com/en-us/download/details.aspx?id=44266
